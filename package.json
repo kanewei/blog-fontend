@@ -22,9 +22,6 @@
     "eject": "react-scripts eject",
     "standard": "standard --fix && **/*.js"
   },
-  "eslintConfig": {
-    "extends": "react-app"
-  },
   "browserslist": {
     "production": [
       ">0.2%",
@@ -42,8 +39,5 @@
     "env": [
       "mocha"
     ]
-  },
-  "devDependencies": {
-    "eslint-plugin-import": "^2.20.2"
   }
 }
